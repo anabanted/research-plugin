@@ -9,9 +9,11 @@ description: Use when the user asks to survey or research a topic and create an 
 
 ## ワークフロー
 
-AskUserQuestionでパターンと出力先を確認:
+**必ず1回のAskUserQuestion**でトピック・パターン・出力先をまとめて確認する（複数回に分けない）。ユーザーのメッセージからトピックが明確な場合は確認として記載し、不明確な場合は入力を求める:
 
 ```
+トピック: {明確なら記載 / 不明確なら「調べたいトピックを教えてください」}
+
 パターンを選んでください:
 1. 箇条書きメモ
 2. 単一ファイル記事（~5000字）
