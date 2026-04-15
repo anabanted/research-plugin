@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "research-writer",
-      "source": "./",
+      "source": "./research-writer",
       "description": "Research and write structured articles with 3 patterns and parallel chapter writing",
       "version": "1.0.0"
     }
