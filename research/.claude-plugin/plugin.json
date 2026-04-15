@@ -1,9 +1,7 @@
 {
   "name": "research",
-  "description": "Research topics and write structured articles with parallel chapter writing via subagents. Supports 3 patterns: bullet notes, single-file articles, and multi-chapter structured articles with Obsidian integration.",
+  "description": "Research topics and write structured articles with parallel chapter writing via subagents.",
   "author": {
     "name": "anabanted"
-  },
-  "repository": "https://github.com/anabanted/research-plugin",
-  "license": "MIT"
+  }
 }

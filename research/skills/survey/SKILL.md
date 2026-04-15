@@ -1,6 +1,6 @@
 ---
-name: research
-description: Use when the user asks to research a topic and create an article, write-up, or learning note, or when asked to investigate and write about something
+name: survey
+description: Use when the user asks to survey or research a topic and create an article, write-up, or learning note, or when asked to investigate and write about something
 ---
 
 # Research Writer
