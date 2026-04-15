@@ -1,9 +1,7 @@
 {
   "name": "research-writer",
-  "version": "1.0.0",
   "description": "Research and write structured articles with parallel chapter writing via subagents. Supports 3 patterns: bullet notes, single-file articles, and multi-chapter structured articles with Obsidian integration.",
   "author": {
     "name": "anabanted"
-  },
-  "license": "MIT"
+  }
 }
