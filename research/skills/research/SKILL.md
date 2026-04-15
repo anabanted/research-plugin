@@ -1,6 +1,6 @@
 ---
-name: research-writer
-description: Use when the user asks to create an article, write-up, or learning note on any topic, or when asked to research and write about something
+name: research
+description: Use when the user asks to research a topic and create an article, write-up, or learning note, or when asked to investigate and write about something
 ---
 
 # Research Writer
