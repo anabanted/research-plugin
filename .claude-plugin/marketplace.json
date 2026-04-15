@@ -1,0 +1,22 @@
+{
+  "name": "research-writer-plugin",
+  "metadata": {
+    "description": "Research and write structured articles with parallel chapter writing via subagents.",
+    "version": "1.0.0",
+    "homepage": "https://github.com/anabanted/research-writer-plugin"
+  },
+  "owner": {
+    "name": "anabanted"
+  },
+  "plugins": [
+    {
+      "name": "research-writer",
+      "description": "Research and write structured articles with 3 patterns and parallel chapter writing",
+      "source": "./research-writer",
+      "strict": false,
+      "skills": [
+        "./research-writer/skills/research-writer"
+      ]
+    }
+  ]
+}
