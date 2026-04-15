@@ -13,10 +13,7 @@
       "name": "research",
       "description": "Research topics and write structured articles with 3 patterns and parallel chapter writing",
       "source": "./research",
-      "strict": false,
-      "skills": [
-        "./research/skills/survey"
-      ]
+      "strict": true
     }
   ]
 }
