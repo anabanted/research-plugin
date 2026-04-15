@@ -1,5 +1,5 @@
 {
-  "name": "research-plugin",
+  "name": "research-writer-plugin",
   "metadata": {
     "description": "Research topics and write structured articles with parallel chapter writing via subagents.",
     "version": "1.0.0",
